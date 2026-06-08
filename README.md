@@ -24,7 +24,7 @@ Filters (Region, Ship Mode, State, City)
 
 Files Included
 
-FUTURE_DS_01.pbix →Power BI Dashboard
+DashboardSuperstore_sales_dashboard_task1.pbix →Power BI Dashboard
 
 Tools Used
 
