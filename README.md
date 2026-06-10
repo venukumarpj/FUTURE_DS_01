@@ -1,7 +1,8 @@
 # FUTURE_DS_01
 Superstore Sales Dashboard – Power BI
 
-This project contains the sales dashboard created for Task 1. Dashboard Includes:
+This project contains the sales dashboard created for Task 1.
+Dashboard Includes:
 
 Total Sales
 
